@@ -19,11 +19,9 @@ Hospital readmissions are costly and can indicate issues in patient care. The go
 ├── requirements.txt          # Python packages used
 ├── readmission_predictor.pkl # Trained ML model
 ├── main_notebook.ipynb       # EDA, preprocessing, training, and evaluation
-├── app.py                    # Streamlit app for demo (optional)
-├── data/
-│   └── cleaned_data.csv      # Cleaned dataset used for training
+├── app.py                    # Streamlit app for demo 
 ├── images/
-│   └── roc_curve.png         # Model performance visual
+│   └── hospital-readmission-machine-learning-predictions.jpg       
 ```
 
 ---
@@ -55,7 +53,7 @@ Class imbalance was addressed using techniques like:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/readmission-prediction.git
+git clone https://github.com/engabdallahsalah/readmission-prediction.git
 cd readmission-prediction
 ```
 
@@ -68,7 +66,7 @@ pip install -r requirements.txt
 3. Run the notebook:
 
 ```bash
-jupyter notebook main_notebook.ipynb
+jupyter diabetes_readmission_prediction.ipynb
 ```
 
 4. (Optional) Run the app:
