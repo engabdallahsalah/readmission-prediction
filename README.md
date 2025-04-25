@@ -1,7 +1,7 @@
 
-# 🏥 Hospital Readmission Prediction
+# 🏥 Diabetes Readmission Prediction
 
-This project aims to predict whether a patient will be readmitted to the hospital using machine learning techniques on a real-world dataset.
+This project predicts early hospital readmission (within 30 days) for diabetic patients using machine learning models. The dataset comes from a large US hospital over a span of 10 years.
 
 ## 📌 Problem Statement
 
