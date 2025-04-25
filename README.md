@@ -1,3 +1,4 @@
+![hospital-readmission-machine-learning-predictions](images/hospital-readmission-machine-learning-predictions.JPG)
 
 # 🏥 Diabetes Readmission Prediction
 
