@@ -96,5 +96,5 @@ For questions or collaboration, feel free to reach out:
 
 ## ⭐️ Acknowledgments
 
-- Dataset: [Insert dataset source or reference]
-- Tools: Scikit-learn, XGBoost, LightGBM, Streamlit, Pandas, Matplotlib, Seaborn
+- Dataset: [https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008]
+- Tools: Scikit-learn, XGBoost, Streamlit, Pandas, Matplotlib, Seaborn
