@@ -79,7 +79,7 @@ streamlit run app.py
 
 ## 🚀 Demo
 
-🔗 Add a link here if you deploy it on [Streamlit Cloud](https://streamlit.io/cloud) or a similar platform.
+🔗 https://readmission-prediction-bmmy9nlqswga62fdpdoxyz.streamlit.app/
 
 ---
 
