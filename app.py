@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 
 # Load the trained model
-model = joblib.load(r"C:\Users\Abd-Allah\Downloads\readmission_predictor.pkl")  
+model = joblib.load("readmission_predictor.pkl")  
 
 # Title
 st.title("🏥 Diabetes Readmission Prediction App")
